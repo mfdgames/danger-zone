@@ -2,14 +2,17 @@
 <html>
 <body>
 
-<p id="moveX"></p> //displays new positions of x
-<p id="moveY"></p> //displays new positions of y
-<p id="resultX"></p> //displayed if Player 1 wins
-<p id="resultY"></p> //displayed if Player 2 wins
+<p id="moveX"></p> 
+<p id="moveY"></p>
+<p id="resultX"></p>
+<p id="resultY"></p>
 
 <script>
 //combined form of two previous versions
-
+//moveX displays new positions of x
+//moveY displays new positions of y
+//resultX displayed if Player 1 wins
+//resultY displayed if Player 2 wins
 /* 
    x is location of Player 1
    y is location of Player 2
